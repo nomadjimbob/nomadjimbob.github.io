@@ -1,6 +1,7 @@
 baseurl = "https://nomadjimbob.github.io"
 title = "James Collins"
 theme = "hugo-theme-cleanwhite"
+themesDir = "themes"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
